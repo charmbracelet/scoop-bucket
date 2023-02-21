@@ -1,0 +1,22 @@
+{
+    "version": "0.12.5",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.5/charm_0.12.5_Windows_i386.zip",
+            "bin": [
+                "charm.exe"
+            ],
+            "hash": "6545e5ef37b1246997362cd6aa21354e5c825a81b3cb0b73e718c8efcbe1ea11"
+        },
+        "64bit": {
+            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.5/charm_0.12.5_Windows_x86_64.zip",
+            "bin": [
+                "charm.exe"
+            ],
+            "hash": "efe5869d10ea9daad0045ea080457545d38d0e56b89f85d8e991889dce0f7f2a"
+        }
+    },
+    "homepage": "{{ .Var.homepage }}",
+    "license": "MIT",
+    "description": "{{ .Var.description }}"
+}
