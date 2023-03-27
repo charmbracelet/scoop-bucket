@@ -1,19 +1,19 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/gum/releases/download/v0.9.0/gum_0.9.0_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/gum/releases/download/v0.10.0/gum_0.10.0_Windows_i386.zip",
             "bin": [
                 "gum.exe"
             ],
-            "hash": "0a35e959a0ac2009106e1215e7ee7569e60f37e39fcbea35b861bafb28d6cab4"
+            "hash": "5355cd8985bd7bfb8b87fc4b13d0cd44dbed546ef351fcc4e75bd2047c7f0b89"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/gum/releases/download/v0.9.0/gum_0.9.0_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/gum/releases/download/v0.10.0/gum_0.10.0_Windows_x86_64.zip",
             "bin": [
                 "gum.exe"
             ],
-            "hash": "febb4d75e7df9f191d37f64bb5756f144d269bab292e5d99047e2145ea8e67f3"
+            "hash": "6c21c69148c1c32610ed691e7639abd7f4dd210c08e732a2c9f03beae392e708"
         }
     },
     "homepage": "{{ .Var.homepage }}",
