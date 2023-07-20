@@ -1,22 +1,22 @@
 {
-    "version": "0.5.0",
+    "version": "0.6.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_i386.zip",
             "bin": [
                 "vhs.exe"
             ],
-            "hash": "5e72e974e4af26eb2b22741539fb3a4dace7cc2a6f74827c2f3822d10a6cdbc3"
+            "hash": "92e519e5e054b518034d6579ea9185beaa45c96cd8f497f1c5ef609cb4f4f39e"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/vhs/releases/download/v0.5.0/vhs_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/vhs/releases/download/v0.6.0/vhs_0.6.0_Windows_x86_64.zip",
             "bin": [
                 "vhs.exe"
             ],
-            "hash": "ddf272cdf91631c2b1c365a50b1ff35430fa19e6c17c20349a0ce7a1bf5b56b8"
+            "hash": "ad8912327a059c048dbfb219c16fbc4b66152102d81f717cd2a62173eef06931"
         }
     },
-    "homepage": "{{ .Var.homepage }}",
+    "homepage": "https://charm.sh/",
     "license": "MIT",
-    "description": "{{ .Var.description }}"
+    "description": "A tool for recording terminal GIFs"
 }
