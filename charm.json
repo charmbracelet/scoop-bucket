@@ -1,22 +1,22 @@
 {
-    "version": "0.12.5",
+    "version": "0.12.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.5/charm_0.12.5_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.6/charm_0.12.6_Windows_i386.zip",
             "bin": [
                 "charm.exe"
             ],
-            "hash": "6545e5ef37b1246997362cd6aa21354e5c825a81b3cb0b73e718c8efcbe1ea11"
+            "hash": "3743a9d3118a2f9bd7dcedf698ccd3afaec4997796e7571620b7c126d2d23397"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.5/charm_0.12.5_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/charm/releases/download/v0.12.6/charm_0.12.6_Windows_x86_64.zip",
             "bin": [
                 "charm.exe"
             ],
-            "hash": "efe5869d10ea9daad0045ea080457545d38d0e56b89f85d8e991889dce0f7f2a"
+            "hash": "68a28a8ccdce669dd7378a7f862d5a9d5563ec511da3100df4c8553d06974365"
         }
     },
-    "homepage": "{{ .Var.homepage }}",
+    "homepage": "https://charm.sh/",
     "license": "MIT",
-    "description": "{{ .Var.description }}"
+    "description": "The Charm Tool and Library 🌟"
 }
