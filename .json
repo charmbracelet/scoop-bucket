@@ -1,22 +1,22 @@
 {
-    "version": "0.6.2",
+    "version": "0.15.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/wishlist/releases/download/v0.15.1/wishlist_0.15.1_Windows_i386.zip",
             "bin": [
-                "melt_0.6.2_Windows_i386/melt.exe"
+                "wishlist_0.15.1_Windows_i386/wishlist.exe"
             ],
-            "hash": "919e300c05be9190692d17e17891b7137ada65be1127b238d7016256fa53e27c"
+            "hash": "c779ce90284063387bbdcfaf83ad831db65e6e0a340dadcda3a92078c3b8f3d2"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/melt/releases/download/v0.6.2/melt_0.6.2_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/wishlist/releases/download/v0.15.1/wishlist_0.15.1_Windows_x86_64.zip",
             "bin": [
-                "melt_0.6.2_Windows_x86_64/melt.exe"
+                "wishlist_0.15.1_Windows_x86_64/wishlist.exe"
             ],
-            "hash": "26eeae944b9e50b1487fc2c7d86a6aaf57109346072d1574fcf2295fc9f4dd91"
+            "hash": "cbcd5b62467bdaf044e8dbcc5b7111f1910cd9bef6b90b8deabef01a27c8611a"
         }
     },
     "homepage": "https://charm.sh/",
     "license": "MIT",
-    "description": "Backup and restore Ed25519 SSH keys with seed words"
+    "description": "The SSH directory"
 }
