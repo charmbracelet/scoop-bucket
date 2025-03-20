@@ -1,12 +1,12 @@
 {
-    "version": "0.8.2",
+    "version": "0.8.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.8.2/soft-serve_0.8.2_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.8.4/soft-serve_0.8.4_Windows_x86_64.zip",
             "bin": [
-                "soft-serve_0.8.2_Windows_x86_64/soft.exe"
+                "soft-serve_0.8.4_Windows_x86_64/soft.exe"
             ],
-            "hash": "0806775be832280856d9e2dd1aea7d6627fab9e137d118f59f0911e860188d55"
+            "hash": "c5a63c7859ae3dd8183f5525d68e4c4dc0a0f60be7163e2d9801a38b2400f1fc"
         }
     },
     "homepage": "https://charm.sh/",
