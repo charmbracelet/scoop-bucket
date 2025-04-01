@@ -1,19 +1,19 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.1/freeze_0.2.1_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.2/freeze_0.2.2_Windows_i386.zip",
             "bin": [
-                "freeze_0.2.1_Windows_i386/freeze.exe"
+                "freeze_0.2.2_Windows_i386/freeze.exe"
             ],
-            "hash": "326dbbf1f0cf2354d7b5a43c5eb98c389983c8bb801046b4346b4be23e32146e"
+            "hash": "79d321182cca384cc1f940126e075348423b39efd4043c12ea38b44d42962f56"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.1/freeze_0.2.1_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/freeze/releases/download/v0.2.2/freeze_0.2.2_Windows_x86_64.zip",
             "bin": [
-                "freeze_0.2.1_Windows_x86_64/freeze.exe"
+                "freeze_0.2.2_Windows_x86_64/freeze.exe"
             ],
-            "hash": "cb6badc13e77d6129956d7b79f256afeb68cdfc495a1da7dbe30799d65aa1d38"
+            "hash": "971fc4b83ca797835505929620012db39a9c5aa849dccca369e852575fb1d344"
         }
     },
     "homepage": "https://charm.sh/",
