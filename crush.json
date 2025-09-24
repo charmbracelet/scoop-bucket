@@ -1,26 +1,26 @@
 {
-    "version": "0.9.3",
+    "version": "0.10.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/crush/releases/download/v0.9.3/crush_0.9.3_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/crush/releases/download/v0.10.0/crush_0.10.0_Windows_i386.zip",
             "bin": [
-                "crush_0.9.3_Windows_i386/crush.exe"
+                "crush_0.10.0_Windows_i386/crush.exe"
             ],
-            "hash": "8eacf117fcc8d55f9ab46343ec99a184afb40bec5225ee7367b5672e27c449e0"
+            "hash": "f224b9514251a608f2a9b174b23a199c47acfe3efe09ee3191d965871690ef05"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/crush/releases/download/v0.9.3/crush_0.9.3_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/crush/releases/download/v0.10.0/crush_0.10.0_Windows_x86_64.zip",
             "bin": [
-                "crush_0.9.3_Windows_x86_64/crush.exe"
+                "crush_0.10.0_Windows_x86_64/crush.exe"
             ],
-            "hash": "73240b699bd30a977d25ea12708d00897e73883d873c63cbf075f261f4851253"
+            "hash": "5e4a67846eb04e2742761b8a35102a95af072464e711775c0909723e9586576d"
         },
         "arm64": {
-            "url": "https://github.com/charmbracelet/crush/releases/download/v0.9.3/crush_0.9.3_Windows_arm64.zip",
+            "url": "https://github.com/charmbracelet/crush/releases/download/v0.10.0/crush_0.10.0_Windows_arm64.zip",
             "bin": [
-                "crush_0.9.3_Windows_arm64/crush.exe"
+                "crush_0.10.0_Windows_arm64/crush.exe"
             ],
-            "hash": "d6acdd52dfbfb6b1c8c2ee45bba7291b4fb0f3778b6324ac1f77263d8bf73c67"
+            "hash": "cf5686bd458729e40c4c77d2aaec7778c7205646b08fd75cede2f8d2d5551d80"
         }
     },
     "homepage": "https://charm.sh/crush",
