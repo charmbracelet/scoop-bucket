@@ -1,12 +1,12 @@
 {
-    "version": "0.11.4",
+    "version": "0.11.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.11.4/soft-serve_0.11.4_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/soft-serve/releases/download/v0.11.5/soft-serve_0.11.5_Windows_x86_64.zip",
             "bin": [
-                "soft-serve_0.11.4_Windows_x86_64/soft.exe"
+                "soft-serve_0.11.5_Windows_x86_64/soft.exe"
             ],
-            "hash": "05dd6b024a448d0a0f54dbaff4d760990ecd2e37bec811d0ec1fbcc23e444aaf"
+            "hash": "cda70e70ae922bd435dbf41141ff22bd793cce359ab91a0de44959fc43567f9e"
         }
     },
     "homepage": "https://charm.land/",
