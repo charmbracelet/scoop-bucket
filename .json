@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/pop/releases/download/v0.3.0/pop_0.3.0_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/pop/releases/download/v0.4.0/pop_0.4.0_Windows_i386.zip",
             "bin": [
-                "pop_0.3.0_Windows_i386/pop.exe"
+                "pop_0.4.0_Windows_i386/pop.exe"
             ],
-            "hash": "fc25c26a5ad69b401b63fe2d123a29dd5f45d7ccd31bb0d61bc803c2606df4f9"
+            "hash": "8b0fcf3ba22b850c628a63439fcacf1356ccbe6cf958c6f4c2c4cfb7d442c8bb"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/pop/releases/download/v0.3.0/pop_0.3.0_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/pop/releases/download/v0.4.0/pop_0.4.0_Windows_x86_64.zip",
             "bin": [
-                "pop_0.3.0_Windows_x86_64/pop.exe"
+                "pop_0.4.0_Windows_x86_64/pop.exe"
             ],
-            "hash": "ebab3b3cafae6506e5c69c0e29ad13aa553adcbd5dbe6801546d6f70a01bb3c3"
+            "hash": "da22326e3c31c84b41e7ebc8656b2b74655529cf2354d229f0adebc3c72334c0"
         }
     },
     "homepage": "https://charm.land/",
