@@ -1,26 +1,26 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_i386.zip",
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.1.0/charmtone_0.1.0_Windows_i386.zip",
             "bin": [
-                "charmtone_0.0.1_Windows_i386/charmtone.exe"
+                "charmtone_0.1.0_Windows_i386/charmtone.exe"
             ],
-            "hash": "3893ba0a361f50dcaa89690d2e9e455acb3c5a8c95cd4cecb74fe9c386b7912b"
+            "hash": "2de2fa22542b4628db01a1261349384127fee9a5ba66d789546b3635863157cd"
         },
         "64bit": {
-            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_x86_64.zip",
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.1.0/charmtone_0.1.0_Windows_x86_64.zip",
             "bin": [
-                "charmtone_0.0.1_Windows_x86_64/charmtone.exe"
+                "charmtone_0.1.0_Windows_x86_64/charmtone.exe"
             ],
-            "hash": "2ab271474998d981e0737451ea587a43ed8d546d7847531b433de69cb5057bde"
+            "hash": "1138bc0dd802c4a583b6f0bc42f5bb6a4b273d1411832615be0e52ab20ee4b23"
         },
         "arm64": {
-            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_arm64.zip",
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.1.0/charmtone_0.1.0_Windows_arm64.zip",
             "bin": [
-                "charmtone_0.0.1_Windows_arm64/charmtone.exe"
+                "charmtone_0.1.0_Windows_arm64/charmtone.exe"
             ],
-            "hash": "2d8d2ed2a316d62719251f9d35fa20665349643fe590b3340089e12156e15ac9"
+            "hash": "ae992c5c7526d6d91cbfcc6c64bac9e93c43e5a61f59079de5fa6efd8b111094"
         }
     },
     "homepage": "https://charm.land/",
