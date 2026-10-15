@@ -1,0 +1,29 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_i386.zip",
+            "bin": [
+                "charmtone_0.0.1_Windows_i386/charmtone.exe"
+            ],
+            "hash": "3893ba0a361f50dcaa89690d2e9e455acb3c5a8c95cd4cecb74fe9c386b7912b"
+        },
+        "64bit": {
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_x86_64.zip",
+            "bin": [
+                "charmtone_0.0.1_Windows_x86_64/charmtone.exe"
+            ],
+            "hash": "2ab271474998d981e0737451ea587a43ed8d546d7847531b433de69cb5057bde"
+        },
+        "arm64": {
+            "url": "https://github.com/charmbracelet/tone/releases/download/v0.0.1/charmtone_0.0.1_Windows_arm64.zip",
+            "bin": [
+                "charmtone_0.0.1_Windows_arm64/charmtone.exe"
+            ],
+            "hash": "2d8d2ed2a316d62719251f9d35fa20665349643fe590b3340089e12156e15ac9"
+        }
+    },
+    "homepage": "https://charm.land/",
+    "license": "Apache-2.0",
+    "description": "A command line tool for rendering the CharmTone color palette."
+}
